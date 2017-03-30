@@ -35,17 +35,16 @@ margin-right: auto;
 
 .logo{
   margin-top: 5px;
-  margin-bottom: 5px;
   text-align: center;
 }
 
 .header__subtitle{
   margin-top: 0;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 27px;
   text-align: center;
   font-weight: 400;
-  font-family: questrial;
+  font-family: 'Roboto', sans-serif;
 }
 
 .sponsor{
@@ -145,7 +144,6 @@ clear:both;
   font-size: 12px;
   width: 80px;
   border: none;
-  font-style: courier;
   font-size: 15px;
   line-height: 25px;
 }
